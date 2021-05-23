@@ -12,3 +12,4 @@ In this homework assignment, you will need to:
 
 -Compare two or more models
 
+ **this assignment is not fully completed. I have yet to sucessfully load load using joblib and still need to finish my analysis, however, the models were successfully completed. I will complete and resubmit. 
